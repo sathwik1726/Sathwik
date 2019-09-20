@@ -1,0 +1,94 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+header{font-size: 40px;
+	background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../1.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	
+}
+	
+ul{
+	float: left;
+	list-style-type:nones;
+	margin-top: 30px;}
+	
+
+	
+}
+ul li{display: inherit;}
+
+ul li a{
+	text-decoration: none;
+	color: #fff
+	;
+	padding: 5px 20px;
+	
+	transition: 0.6s ease;
+
+}
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+#home1
+{position: absolute;
+	color: #fff;
+	top: 100px;
+	left:1300px;
+	font-size:50px;
+}
+#education1
+{position: absolute;
+	color: #fff;
+	top: 100px;
+	left:700px;
+	font-size:40px;
+}
+#project1
+{position: absolute;
+	color: #fff;
+	top: 300px;
+	left:700px;
+	font-size:50px;}
+#learning1
+{position: absolute;
+	color: #fff;
+	top: 300px;
+	left:1000px;
+	font-size:50px;}
+#hobbies1
+{position: absolute;
+	color: #fff;
+	top: 300px;
+	left:1000px;
+	font-size:50px;}
+#contact1
+{position: absolute;
+	color: #fff;
+	top: 100px;
+	left:1000px;
+	font-size:50px;}
+#blog1
+{position: absolute;
+	color: #fff;
+	top: 100px;
+	left:700px;
+	font-size:50px;}
+#memories1
+{position: absolute;
+	color: #fff;
+	top: 100px;
+	left:800px;
+	font-size:50px;}
+#weblinks1
+{position: absolute;
+	color: #fff;
+	top: 100px;
+	left:900px;
+	font-size:30px;}
+
+.main
